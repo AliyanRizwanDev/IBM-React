@@ -1,7 +1,7 @@
 
 # IBM React Portfolio
 
-![Project Image](/path/to/project/image.png)
+![Project Image](/Portfolio Website/screenshots/Full Page.png)
 
 ## Overview
 
