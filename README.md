@@ -62,18 +62,3 @@ Visit `http://localhost:3000` in your browser to view the application.
 - HTML
 - CSS
 
-## Contributing
-
-If you'd like to contribute to this project, please follow these guidelines:
-
-1. Fork the repository.
-2. Create a new branch for your feature or bug fix.
-3. Make your changes and commit them.
-4. Push to your fork and submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-```
-
-Copy the entire content above and paste it into your README file in your GitHub repository. Remember to replace `/path/to/project/image.png` with the actual path or URL to an image representing your project. Adjust any other details as needed.
