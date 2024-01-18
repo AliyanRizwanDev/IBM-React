@@ -1,7 +1,7 @@
 
 # IBM React Portfolio
 [
-![Project Image](/Portfolio Website/screenshots/Full Page.png)](https://github.com/AliyanRizwanDev/IBM-React/blob/88a5f678d97f317db848a7f6b0ab9f1341c8e815/Portfolio%20Website/screenshots/Full%20Page.png)
+![Project Image](https://github.com/AliyanRizwanDev/IBM-React/blob/88a5f678d97f317db848a7f6b0ab9f1341c8e815/Portfolio%20Website/screenshots/Full%20Page.png)
 
 ## Overview
 
