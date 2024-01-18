@@ -14,8 +14,7 @@ This repository contains the code for my portfolio website developed as a part o
 - [Installation](#installation)
 - [Usage](#usage)
 - [Technologies Used](#technologies-used)
-- [Contributing](#contributing)
-- [License](#license)
+
 
 ## Features
 
