@@ -1,6 +1,4 @@
-Certainly! Here's the complete README file with filled content for your IBM React portfolio project:
 
-```markdown
 # IBM React Portfolio
 
 ![Project Image](/path/to/project/image.png)
